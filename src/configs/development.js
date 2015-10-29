@@ -1,0 +1,5 @@
+export default {
+  "node_env": "development:hot-loader",
+  "hot_server_host":"127.0.0.1",
+  "hot_server_port": 5656
+}

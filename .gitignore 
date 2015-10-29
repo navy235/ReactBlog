@@ -1,0 +1,19 @@
+# OSX
+#
+.DS_Store
+
+
+
+# Android/IJ
+#
+.idea
+
+
+# node.js
+#
+node_modules/
+npm-debug.log
+
+# build
+
+src/public/build
